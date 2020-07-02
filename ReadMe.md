@@ -1,8 +1,8 @@
 Number and name of feature: ________Deployment_________________
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: __1 Hour_
 
-Start time: _____
+Start time: _14:00__
 
 Finish time: _____
 
